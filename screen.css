@@ -21,6 +21,7 @@ h2{
 
 section.Opening{
   text-align: center;
+  margin: none;
 }
 
 section.Opening h3{
