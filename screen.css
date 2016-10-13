@@ -13,7 +13,6 @@ h1{
   color: #FF5733;
   padding: 1.5625em 18.75em 1.5625em 18.75em;
   margin-top: 1.5625em; 
-  margin-bottom:1.5625em;
 }
 
 h2{
@@ -27,6 +26,11 @@ section.Opening{
 section.Opening h3{
   padding:1.5625em 18.75em 1.5625em 18.75em;
   background-color: white;
+}
+
+section.Opening p{
+  padding-left: 18.75em;
+  padding-right: 18.75em;
 }
 
 h3{
