@@ -3,13 +3,11 @@ html {
   background-color: #FF5733;
 }
 
-header{
-  font-family: "Arial Rounded MT Bold";
-  
-}
+
 
 h1{
   font-size: 2em;
+  text-align: center;
   font-family: "Monotype Corsiva";
   background-color: black;
   color: #FF5733;
