@@ -56,6 +56,10 @@ section.Questions{
   background-color: white;
 }
 
+section.Work{
+  background-color: white;
+}
+
 img.center {
     display: block;
     margin-left: auto;
