@@ -52,6 +52,10 @@ section.Career{
   padding-bottom:9.0em;
 }
 
+section.Questions{
+  background-color: white;
+}
+
 img.center {
     display: block;
     margin-left: auto;
@@ -83,7 +87,5 @@ p{
   text-indent: 5.00em;
 }
 
-figure.photo{
-  
-}
+
 
