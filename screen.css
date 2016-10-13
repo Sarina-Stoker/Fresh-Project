@@ -40,6 +40,17 @@ section.Opening h3{
 section.Opening p{
   padding-bottom: 2em;
 }
+section.Facts{
+  padding-bottom:3.0em;
+}
+
+section.Skills{
+  padding-bottom:3.0em;
+}
+
+section.Career{
+  padding-bottom:3.0em;
+}
 
 
 ul{
