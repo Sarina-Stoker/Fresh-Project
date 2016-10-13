@@ -63,6 +63,9 @@ ul{
   text-indent: 3.75em;
 }
 
+section.Facts {
+  text-align: center;
+}
 
 h3{
   text-indent:2.5em;
