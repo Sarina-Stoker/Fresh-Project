@@ -24,6 +24,11 @@ section.Opening{
   text-align: center;
 }
 
+section.Opening h3{
+  padding:1.5625em 18.75em 1.5625em 18.75em;
+  background-color: white;
+}
+
 h3{
   
 }
