@@ -8,6 +8,8 @@ header{
 }
 
 h1{
+  font-size: 2em;
+  font-family: "Monotype Corsiva";
   background-color: black;
   color: #FF5733;
   padding: 1.5625em 18.75em 1.5625em 18.75em;
