@@ -24,6 +24,10 @@ section.Education h2{
   text-align: left;
 }
 
+section.Education{
+  padding-bottom: 2em;
+}
+
 section.Opening{
   text-align: center;
 }
