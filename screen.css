@@ -16,7 +16,7 @@ h1{
 }
 
 h2{
-  
+  font-family: "Cooper Black";
 }
 
 section.Opening{
@@ -28,7 +28,9 @@ section.Opening h3{
   background-color: white;
 }
 
-
+section.Questions h2{
+  text-align: center;
+}
 
 h3{
   
@@ -39,6 +41,6 @@ h4{
 }
 
 p{
-  
+  font-family: "Times New Roman"
 }
 
