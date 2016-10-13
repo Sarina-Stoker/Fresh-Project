@@ -52,6 +52,12 @@ section.Career{
   padding-bottom:9.0em;
 }
 
+img.paris {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
 
 ul{
   text-indent: 3.75em;
@@ -72,5 +78,9 @@ p{
   padding-right:3.5em;
   padding-left:3.5em;
   text-indent: 5.00em;
+}
+
+figure.photo{
+  
 }
 
