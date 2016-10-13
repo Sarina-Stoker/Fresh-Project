@@ -41,15 +41,15 @@ section.Opening p{
   padding-bottom: 2em;
 }
 section.Facts{
-  padding-bottom:3.0em;
+  padding-bottom:6.0em;
 }
 
 section.Skills{
-  padding-bottom:3.0em;
+  padding-bottom:6.0em;
 }
 
 section.Career{
-  padding-bottom:3.0em;
+  padding-bottom:6.0em;
 }
 
 
@@ -67,7 +67,10 @@ h4{
 }
 
 p{
-  font-family: "Times New Roman"
+  font-family: "Times New Roman";
+  padding-bottom:1.5em;
+  padding-right:2em;
+  padding-left:2em;
   text-indent: 5.00em;
 }
 
