@@ -21,6 +21,30 @@ nav{
     flex-direction:column;
   }
 }
+
+
+
+header{
+   display:flex;
+  flex-flow:row wrap;
+  justify-content: flex-start;
+}
+ 
+@media all and (max-width:50em){
+  header{
+    justify-content:space-around;
+  }
+}
+
+@media all and (max-width:31.25em){
+  header{
+    flex-direction:column;
+  }
+}
+
+
+
+
 h1{
   font-size: 2em;
   text-align: center;
