@@ -16,7 +16,7 @@ header{
   justify-content: flex-start;
 }
 
-h1.flex-container{
+.h1{
   display:flex;
   flex-flow:row wrap;
   justify-content:space-around;
