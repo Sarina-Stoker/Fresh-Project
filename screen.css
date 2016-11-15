@@ -3,14 +3,24 @@ html {
   background-color: #FF5733;
 }
 
+
 nav{
   display:flex;
   flex-flow:row wrap;
   justify-content: flex-start;
 }
+ 
+@media all and (max-width:50em){
+  nav{
+    justify-content:space-around;
+  }
+}
 
-
-
+@media all and (max-width:31.25em){
+  nav{
+    flex-direction:column;
+  }
+}
 h1{
   font-size: 2em;
   text-align: center;
