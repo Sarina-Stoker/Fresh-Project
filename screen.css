@@ -5,7 +5,13 @@ html {
 
 nav{
   display:flex;
-  flex-direction: row;
+  flex-flow:row wrap;
+  justify-content: flex-start;
+}
+
+nav.header{
+  display:flex;
+  flex-flow:row wrap;
   justify-content: flex-start;
 }
 
