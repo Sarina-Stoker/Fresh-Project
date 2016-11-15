@@ -9,6 +9,26 @@ nav{
   flex-flow:row wrap;
   justify-content: flex-start;
 }
+
+header{
+   display:flex;
+  flex-flow:row wrap;
+  justify-content: flex-start;
+}
+
+h1.flex-container{
+  font-size: 2em;
+  text-align: center;
+  font-family: "Monotype Corsiva";
+  background-color: black;
+  color: #FF5733;
+  padding: 1.5625em 18.75em 1.5625em 18.75em;
+  margin-top: 1.5625em; 
+  
+  display:flex;
+  flex-flow:row wrap;
+  justify-content:space-around;
+}
  
 @media all and (max-width:50em){
   nav,header,h1{
@@ -24,27 +44,6 @@ nav{
 
 
 
-header{
-   display:flex;
-  flex-flow:row wrap;
-  justify-content: flex-start;
-}
-
-
-
-h1{
-  font-size: 2em;
-  text-align: center;
-  font-family: "Monotype Corsiva";
-  background-color: black;
-  color: #FF5733;
-  padding: 1.5625em 18.75em 1.5625em 18.75em;
-  margin-top: 1.5625em; 
-  
-  display:flex;
-  flex-flow:row wrap;
-  justify-content:space-around;
-}
 
 h2{
   font-family: "Cooper Black";
