@@ -3,7 +3,7 @@ html {
   background-color: #FF5733;
 }
 
-navigation{
+nav{
   display:flex;
   flex-flow:row-wrap;
   justify-content: space-around;
