@@ -9,11 +9,7 @@ nav{
   justify-content: flex-start;
 }
 
-nav.header{
-  display:flex;
-  flex-flow:row wrap;
-  justify-content: flex-start;
-}
+
 
 h1{
   font-size: 2em;
