@@ -11,13 +11,13 @@ nav{
 }
  
 @media all and (max-width:50em){
-  nav{
+  nav,header,h1{
     justify-content:space-around;
   }
 }
 
 @media all and (max-width:31.25em){
-  nav{
+  nav,header,h1{
     flex-direction:column;
   }
 }
@@ -29,19 +29,6 @@ header{
   flex-flow:row wrap;
   justify-content: flex-start;
 }
- 
-@media all and (max-width:50em){
-  header{
-    justify-content:space-around;
-  }
-}
-
-@media all and (max-width:31.25em){
-  header{
-    flex-direction:column;
-  }
-}
-
 
 
 
@@ -53,6 +40,10 @@ h1{
   color: #FF5733;
   padding: 1.5625em 18.75em 1.5625em 18.75em;
   margin-top: 1.5625em; 
+  
+  display:flex;
+  flex-flow:row wrap;
+  justify-content:space-around;
 }
 
 h2{
