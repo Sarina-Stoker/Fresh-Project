@@ -3,7 +3,11 @@ html {
   background-color: #FF5733;
 }
 
-
+navigation{
+  display:flex;
+  flex-flow:row-wrap;
+  justify-content: space-around;
+}
 
 h1{
   font-size: 2em;
