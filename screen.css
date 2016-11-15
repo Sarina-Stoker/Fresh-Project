@@ -16,7 +16,7 @@ header{
   justify-content: flex-start;
 }
 
-h1.flex-container{
+h1{
   font-size: 2em;
   text-align: center;
   font-family: "Monotype Corsiva";
@@ -25,6 +25,9 @@ h1.flex-container{
   padding: 1.5625em 18.75em 1.5625em 18.75em;
   margin-top: 1.5625em; 
   
+}
+
+h1.flex-container{
   display:flex;
   flex-flow:row wrap;
   justify-content:space-around;
