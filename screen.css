@@ -78,6 +78,11 @@ section.Opening p{
   padding-bottom: 2em;
 }
 section.Facts{
+   display:flex;
+  flex-flow:row wrap;
+  justify-content:space-around;
+
+  text-align: center;
   padding-bottom:9.0em;
 }
 
