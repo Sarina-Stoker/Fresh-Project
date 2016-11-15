@@ -5,8 +5,8 @@ html {
 
 nav{
   display:flex;
-  flex-flow:nowrap;
-  justify-content: space-around;
+  flex-direction: row;
+  justify-content: flex-start;
 }
 
 h1{
